@@ -21,7 +21,7 @@ Whether you're on a similar path or just passing through, i hope you find someth
 ## 🎓 Certifications
 
 - [HackTheBox - Certified Penetration Testing Specialist (CPTS)](https://academy.hackthebox.com/achievement/badge/e71c3753-ac4e-11f1-82d1-bea50ffe6cb4) - [2026]
-- INE - Junior Penetration Tester (eJPTv2) - [2024]
+- INE - Junior Penetration Tester (eJPTv2) - [2023]
 - ITIL 4 Foundation - [2021]
 
 ## 🏆 Labs
