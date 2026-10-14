@@ -1,0 +1,36 @@
+<style>
+  /* Common Base */
+  .icon-custom {
+    display: inline-block;
+    width: 2.5em;
+    height: 2.5em;
+    vertical-align: -0.3em;
+  }
+
+  /* Mode 1: colored icon */
+  .icon-img {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+
+  /* Mode 2: monochrome icon */
+  .icon-mask {
+    background-color: currentColor; /* Default theme color */
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+  }
+
+  /* Icons */
+  .icon-htb {  /* colored icon */
+    background-image: url('{{ "/assets/img/contact/htb.png" | relative_url }}');
+  }
+
+  .icon-rootme {  /* colored icon */
+    background-image: url('{{ "/assets/img/contact/rootme.png" | relative_url }}');
+  }
+</style>
