@@ -42,7 +42,7 @@ Whether you're on a similar path or just passing through, i hope you find someth
 - [HackTheBox](https://app.hackthebox.com/public/users/125560) (0xTatsuki)
 - [Root-Me](https://www.root-me.org/Tatsuki-718700) (Tatsuki)
 - [TryHackMe](https://tryhackme.com/p/0xTatsuki) (0xTatsuki)
-- [PortSwigger Academy]() (0xTatsuki)
+- [PortSwigger Academy](https://portswigger.net/web-security) (0xTatsuki)
 - [CTF Time](https://ctftime.org/team/284733) (Tatsuki)
 
 ---

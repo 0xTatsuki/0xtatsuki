@@ -68,7 +68,7 @@ testing          [Status: 301, Size: 178, Words: 6, Lines: 8, Duration: 13ms]
 :: Progress: [220546/220546] :: Job [1/1] :: 2380 req/sec :: Duration: [0:01:26] :: Errors: 0 ::
 ```
 
-Several endpoints are returned. The most interesting one is `/testing`, which exposes a downloadable file ([custom-apoc-extension-1.0-SNAPSHOT.jar](http://cypher.htb/testing/custom-apoc-extension-1.0-SNAPSHOT.jar)).
+Several endpoints are returned. The most interesting one is `/testing`, which exposes a downloadable file (``custom-apoc-extension-1.0-SNAPSHOT.jar``).
 Before reversing the JAR, we continue web enumeration and move on to the `/api` endpoint.
 
 ---
